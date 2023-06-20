@@ -1,0 +1,19 @@
+{
+  "addons": {
+    "{c92086bd-c275-4707-8e61-a9d90f7707a6}": {
+      "updates": [
+        {
+          "version": "2.0",
+          "update_link": "https://localhost/2.0.xpi"
+        },{
+          "version": "2.1",
+          "update_link": "https://localhost/2.1.xpi"
+        },{
+          "version": "2.2",
+          "update_link": "https://localhost/2.2.xpi",
+          "update_hash": "sha256:3b56e6adb1faaf50d3c660693175c2910dabe264124a29da664b6f8f4da9122b"
+        }
+      ]
+    }
+  }
+}
