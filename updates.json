@@ -3,7 +3,7 @@
     "{a5e05a57-197b-4ab7-b18a-488aa11966b0}": {
       "updates": [
         {
-          "version": "5.0",
+          "version": "4.0",
           "update_link": "https://github.com/Extension-and-Plugin/Browser-Backup/raw/main/xpi/test4.0.xpi",
           "update_hash": "sha256:729050cb84c59eb49db5bee52e052480530ed52eabb79f467f599c6b960936f6"
         }
