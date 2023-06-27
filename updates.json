@@ -1,11 +1,11 @@
 {
   "addons": {
-    "{a5e05a57-197b-4ab7-b18a-488aa11966b0}": {
+    "	{c92086bd-c275-4707-8e61-a9d90f7707a6}": {
       "updates": [
         {
-          "version": "4.0",
-          "update_link": "https://github.com/Extension-and-Plugin/Browser-Backup/raw/main/xpi/test4.0.xpi",
-          "update_hash": "sha256:729050cb84c59eb49db5bee52e052480530ed52eabb79f467f599c6b960936f6"
+          "version": "2.4",
+          "update_link": "https://github.com/Extension-and-Plugin/Browser-Backup/raw/main/xpi/Browser Backup-2.4.xpi",
+          "update_hash": "sha256:bd5024255b901154a76e5ccbc7f9908e9368521cbc54714f90dab76809127201"
         }
       ]
     }
